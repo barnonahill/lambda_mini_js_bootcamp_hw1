@@ -1,0 +1,10 @@
+* Variables
+  Variables are references to objects such as strings, integers, and floats.
+* Strings
+  Strings are arrays of characters stored in a single objects.
+* Functions (arguments, `return`)
+  Functions take an input and return an output. Arguments can be passed into a function to be used and augmented.
+* `if` statements
+  if statements are used to check boolean values and perform the code inside if the boolean is true.
+* Boolean values (`true`, `false`)
+    True is 1, false is 0. They're binomial discrete values.
